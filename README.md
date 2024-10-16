@@ -12,23 +12,23 @@ O objetivo principal é construir um modelo preciso e robusto para detectar frau
 
 1. Coleta e Preparação dos Dados:
    
-  * Coleta de dados históricos de transações.
-  * Limpeza e tratamento dos dados, incluindo a remoção de outliers e a codificação de variáveis categóricas.
+   Coleta de dados históricos de transações.
+   Limpeza e tratamento dos dados, incluindo a remoção de outliers e a codificação de variáveis categóricas.
 
 2. Engenharia de Fetures:
    
-   * Criação de novas features relevantes, como combinações de variáveis existentes.
-   * Seleção das features mais importantes para o modelo.
+   Criação de novas features relevantes, como combinações de variáveis existentes.
+   Seleção das features mais importantes para o modelo.
 
 3. Modelagem:
    
-   * Utilização da Regressão Logística para modelar a probabilidade de uma transação ser fraudulenta.
-   * Treinamento do modelo em um conjunto de dados de treinamento e avaliação em um conjunto de teste.
+   Utilização da Regressão Logística para modelar a probabilidade de uma transação ser fraudulenta.
+   Treinamento do modelo em um conjunto de dados de treinamento e avaliação em um conjunto de teste.
 
 4. Avaliação:
    
-   * Cálculo de métricas de desempenho, como acurácia, precisão, recall e F1-score.
-   * Análise da matriz de confusão para avaliar a performance do modelo.
+   Cálculo de métricas de desempenho, como acurácia, precisão, recall e F1-score.
+   Análise da matriz de confusão para avaliar a performance do modelo.
 
 **Resultados**
 
@@ -38,4 +38,8 @@ O modelo de Regressão Logística obteve uma acurácia de 92% na classificação
 
 *Linguagem:** R
 *Bibliotecas:** caret, dplyr, tidyverse, data.table, ggplot2
+
+Author:
+
+Matheus Andrade Moreira
 
