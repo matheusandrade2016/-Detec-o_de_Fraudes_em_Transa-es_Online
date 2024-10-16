@@ -36,8 +36,9 @@ O modelo de Regressão Logística obteve uma acurácia de 92% na classificação
 
 **Tecnologias Utilizadas**
 
-*Linguagem:** R
-*Bibliotecas:** caret, dplyr, tidyverse, data.table, ggplot2
+Linguagem:R
+
+Bibliotecas: caret, dplyr, tidyverse, data.table, ggplot2
 
 Author:
 
